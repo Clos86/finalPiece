@@ -4,13 +4,13 @@
 devFinder is a place where you can find your favorite developers. If you are in need of an app or website, come visit devFinder.
 
 ## Table of Content
-* [Deployed Page](#deployed page)
+* [Deployed](#deployed)
 * [Usage](#usage)
 * [Screenshot](#screenshot)
 * [Installations](#installations)  
 * [Contributors](#contributors)
 
-## Deployed Page
+## Deployed
 
  https://floating-atoll-26715.herokuapp.com/
 
