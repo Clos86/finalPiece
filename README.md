@@ -4,11 +4,11 @@
 devFinder is a place where you can find your favorite developers. If you are in need of an app or website, come visit devFinder.
 
 ## Table of Content
-- Deployed Page
-- Usage
-- Screenshots
-- Installations
-- Contributors
+* [Deployed Page](#deployed page)
+* [Usage](#usage)
+* [Screenshot](#screenshot)
+* [Installations](#installations)  
+* [Contributors](#contributors)
 
 ## Deployed Page
 
